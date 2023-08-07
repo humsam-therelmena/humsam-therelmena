@@ -7,5 +7,5 @@ fontsize: 12pt
 # Arabiske bokgaver til HumSam
 
 
-&bull; [Nahj al-Balāgha](/001_Nahj_al-Bal%C4%81gha.md)
+&bull; [Nahj al-Balāgha](/001_nahj_al-balagha.md)
 &bull; [al-Kāfī](/)
