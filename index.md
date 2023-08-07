@@ -7,4 +7,4 @@ fontsize: 12pt
 # HumSam Fagansvar for Teologi, Religion og Midtøsten-studier
 
 
-[Home](/) &bull; [Arabiske bokgaver](/) &bull;
+[Home](/) &bull; [Arabiske bokgaver](/arabiske_bokgaver.md)
